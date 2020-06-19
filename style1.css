@@ -1,0 +1,12 @@
+#gen{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(to right,blue, green);
+    top: 20%;
+}
+
+h1{
+    margin-top: 15%;
+    letter-spacing: 1.0em;
+}
